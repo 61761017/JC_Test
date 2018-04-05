@@ -17,26 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    NSLog(@"哈哈哈");
 }
 
 
